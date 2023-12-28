@@ -1,4 +1,4 @@
-FROM python:latest
+FROM python:3.6
 
 # Set CWD & copy files
 WORKDIR /usr/src/app
